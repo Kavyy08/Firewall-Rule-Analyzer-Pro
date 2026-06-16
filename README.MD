@@ -26,7 +26,7 @@ Professional Firewall Security Assessment Tool built using Python and Streamlit.
 
 ## Risk Analysis
 
-![Risk Analysis](screenshots/risk-analysis.png)
+![Risk Analysis](Screenshot/Risk-analysis.png)
 
 ## Generated Report
 
