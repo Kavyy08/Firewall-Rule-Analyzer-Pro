@@ -22,7 +22,7 @@ Professional Firewall Security Assessment Tool built using Python and Streamlit.
 
 ## Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshot/Dashboard.png)
 
 ## Risk Analysis
 
