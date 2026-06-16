@@ -1,1 +1,8 @@
-
+RuleID,Source,Destination,Service,Action
+1,Any,Any,Any,Allow
+2,192.168.1.0/24,10.0.0.5,HTTPS,Allow
+3,Any,10.0.0.10,RDP,Allow
+4,192.168.1.0/24,10.0.0.20,SMB,Allow
+5,Any,10.0.0.30,FTP,Allow
+6,Any,10.0.0.40,Telnet,Allow
+7,192.168.1.0/24,10.0.0.50,HTTP,Allow
