@@ -30,7 +30,7 @@ Professional Firewall Security Assessment Tool built using Python and Streamlit.
 
 ## Generated Report
 
-![Report](screenshots/report.png)
+![Report](Screenshot/reports.png)
 
 ## Installation
 
